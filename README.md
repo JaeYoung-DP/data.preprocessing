@@ -10,7 +10,7 @@ Introduction
 
 
 
-ship_crop (선박 데이터 디버깅 과정) 
+ship_crop (선박 데이터 정제 과정) 
  - img_count.py 하위폴더들의 이미지 총 갯수를 카운트 합니다.
  - bbox_ori_img_all.py 를 통해 이미지의 모든 바운딩 박스를 이미지에 표현합니다.
  - find_json_empty.py 이미지와 json의 매칭을 통해 매칭되지 않는 이미지와 json을 찾아냅니다.
