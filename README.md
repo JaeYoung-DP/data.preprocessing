@@ -1,14 +1,6 @@
 # KR-DBNet
 Ship string detection
 
-Introduction
-
-해당 모델은 opentoolkit인 mmocr / github-DBNet 을 사용중입니다.
-출처 : https://mmocr.readthedocs.io/en/dev-1.x/user_guides/train_test.html / https://github.com/open-mmlab/mmocr
-출처 : https://github.com/MhLiao/DB
-
-
-
 
 ship_crop (선박 데이터 정제 과정) 
  - img_count.py 하위폴더들의 이미지 총 갯수를 카운트 합니다.
